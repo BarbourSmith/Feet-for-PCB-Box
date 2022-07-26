@@ -19,13 +19,13 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 0.27645502645502645,
-                    "y": 0.3076923076923077,
+                    "x": 0.28174603174603174,
+                    "y": 0.29012345679012347,
                     "uniqueID": 805209,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 8
+                            "ioValue": 16
                         }
                     ]
                 },
@@ -170,7 +170,7 @@
                     "ioValues": [
                         {
                             "name": "number or geometry",
-                            "ioValue": "source/140249/150383/370792ShrinkWrap"
+                            "ioValue": "source/140249/150383/691121Difference"
                         }
                     ]
                 }
@@ -199,6 +199,13 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 691121,
+                    "ap2ID": 880879
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 101971,
@@ -217,13 +224,6 @@
                     "ap2Primary": false,
                     "ap1ID": 370792,
                     "ap2ID": 691121
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 370792,
-                    "ap2ID": 880879
                 },
                 {
                     "ap1Name": "geometry",
